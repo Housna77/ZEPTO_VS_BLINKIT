@@ -56,7 +56,7 @@ Ce KPI reflète le chiffre d'affaires total combiné des deux services sur la p�
 
 Grâce à une visualisation temporelle (par mois), il a été possible d’identifier des pics de ventes en mai, juin et juillet, suggérant une saisonnalité importante.
 
-![Screenshot 2024-02-25 at 12.43.29.png](attachment:ed95e332-8b36-410a-b262-dcb6d62210a0:Screenshot_2024-02-25_at_12.43.29.png)
+![total sales.png](attachment:2765289b-23cb-45a7-9d95-56b4194020e0:total_sales.png)
 
 ### **Répartition des Moyens de Paiement**
 
@@ -65,7 +65,7 @@ Grâce à une visualisation temporelle (par mois), il a été possible d’ident
 
 Ce KPI permet de comprendre les préférences des utilisateurs en matière de paiement. Les cartes bancaires restent majoritaires, mais les solutions numériques (UPI) sont fortement représentées, montrant une adoption digitale avancée.Maps and scatterplots visualized geographic distributions and the relationship between passenger volumes and assistance provided. These visuals highlighted the need for differentiated strategies across regions and station clusters.
 
-![Capture d'écran 2025-08-06 154554.png](attachment:5e3e6b4d-39da-4f4a-841a-c4695d11dd37:Capture_dcran_2025-08-06_154554.png)
+![payment mode.png](attachment:5e89dfb8-a1a2-4a15-b7f5-c806c597162f:payment_mode.png)
 
 ### **Produits les plus vendus**
 
@@ -75,7 +75,7 @@ Ces produits représentent une part importante du volume de ventes.
 
 L’analyse visuelle (graphique en barres) a permis de hiérarchiser les catégories par popularité, ce qui pourrait orienter les futures décisions d’approvisionnement ou de promotion.
 
-![Capture d'écran 2025-08-06 155250.png](attachment:f6191841-ad24-433a-8b51-d24d49c2ce9a:Capture_dcran_2025-08-06_155250.png)
+![products sale.png](attachment:2093200a-0dd1-4046-ae3e-f437698e3a09:products_sale.png)
 
 ### **Saisonnalité mensuelle**
 
@@ -83,7 +83,7 @@ L’analyse visuelle (graphique en barres) a permis de hiérarchiser les catégo
 
 Le graphique de vente mensuelle montre une variation marquée tout au long de l'année. Cela peut être lié à des campagnes promotionnelles, des vacances ou d’autres événements spécifiques.
 
-![Capture d'écran 2025-08-06 154931.png](attachment:7da6e0ae-5141-4986-b0be-a5bccd099773:Capture_dcran_2025-08-06_154931.png)
+![sale by month.png](attachment:11b6d744-0c08-4447-a228-2c5c36853af8:sale_by_month.png)
 
 ### **Répartition géographique des ventes**
 
@@ -92,7 +92,7 @@ Le graphique de vente mensuelle montre une variation marquée tout au long de l'
 
 Les données montrent une concentration des ventes dans les grandes métropoles. Cette visualisation permet d’identifier les zones à fort potentiel ou sous-performantes.
 
-![Capture d'écran 2025-08-06 154730.png](attachment:8e9aa6e1-1ed3-40a8-b1ce-f2f3ca59f968:Capture_dcran_2025-08-06_154730.png)
+![sale by city.png](attachment:07a1a0cf-4b27-41f3-9f75-8c0f713b0c04:sale_by_city.png)
 
 ### Challenges rencontrés
 
