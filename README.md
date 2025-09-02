@@ -66,7 +66,8 @@ Grâce à une visualisation temporelle (par mois), il a été possible d’ident
 
 Ce KPI permet de comprendre les préférences des utilisateurs en matière de paiement. Les cartes bancaires restent majoritaires, mais les solutions numériques (UPI) sont fortement représentées, montrant une adoption digitale avancée.Maps and scatterplots visualized geographic distributions and the relationship between passenger volumes and assistance provided. These visuals highlighted the need for differentiated strategies across regions and station clusters.
 
-<img width="727" height="215" alt="payment mode" src="https://github.com/user-attachments/assets/abcbbcf4-a408-4830-8abc-85de0dd95968" />
+<img width="783" height="236" alt="payment mode" src="https://github.com/user-attachments/assets/e2d75ed0-221d-4dc0-bbea-8ed03a682e0c" />
+
 
 
 ### **Produits les plus vendus**
@@ -77,7 +78,8 @@ Ces produits représentent une part importante du volume de ventes.
 
 L’analyse visuelle (graphique en barres) a permis de hiérarchiser les catégories par popularité, ce qui pourrait orienter les futures décisions d’approvisionnement ou de promotion.
 
-<img width="835" height="356" alt="products sale" src="https://github.com/user-attachments/assets/fad07e4f-08f1-4090-b265-4531e85c60ac" />
+<img width="902" height="378" alt="products sale" src="https://github.com/user-attachments/assets/f7c7555a-c0f5-4d2f-8fa0-dbd56a772d54" />
+
 
 
 ### **Saisonnalité mensuelle**
@@ -86,7 +88,8 @@ L’analyse visuelle (graphique en barres) a permis de hiérarchiser les catégo
 
 Le graphique de vente mensuelle montre une variation marquée tout au long de l'année. Cela peut être lié à des campagnes promotionnelles, des vacances ou d’autres événements spécifiques.
 
-<img width="763" height="678" alt="sale by month" src="https://github.com/user-attachments/assets/66449bd9-3201-4823-9c2c-789da4f26239" />
+<img width="760" height="682" alt="sale by month" src="https://github.com/user-attachments/assets/60911753-6359-4a98-8fc8-d111d6f06feb" />
+
 
 
 ### **Répartition géographique des ventes**
@@ -96,7 +99,8 @@ Le graphique de vente mensuelle montre une variation marquée tout au long de l'
 
 Les données montrent une concentration des ventes dans les grandes métropoles. Cette visualisation permet d’identifier les zones à fort potentiel ou sous-performantes.
 
-<img width="836" height="371" alt="sale by city" src="https://github.com/user-attachments/assets/6210e98c-a262-4af0-adf6-b4ab730407d7" />
+<img width="907" height="403" alt="sale by city" src="https://github.com/user-attachments/assets/404a2ce8-d70b-4fac-959e-facaf6c670d2" />
+
 
 
 ### Challenges rencontrés
